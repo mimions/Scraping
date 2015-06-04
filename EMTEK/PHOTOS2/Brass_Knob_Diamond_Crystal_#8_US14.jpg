@@ -1,0 +1,345 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Door Hardware, Knobs, Levers, Handlesets, and Locks | Emtek Products, Inc.</title>
+<meta name="keywords" content="door hardware,door locks,handles,entrysets,deadbolts,handlesets,levers,latches,sideplates,passage,privacy,cabinet pulls,bath hardware" />
+<meta name="description" content="Emtek was founded in 1981 as a manufacturer of specialty hardware products selling to door manufacturing companies.  We specialize in Door Hardware, Door Locks, Entry Sets, Deadbolts, Levers, Sideplates, Passage/Privacy Knobs, and Cabinet Pulls.
+" />
+<link href="em_global.css?v=1236" rel="stylesheet" type="text/css" />
+<link href="https://plus.google.com/102362576577701092104" rel="publisher" />
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script type="text/javascript">
+<!--
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+
+<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" href="/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+<!--[if lt IE 8]>
+<style type="text/css">
+.dropdown ul li {margin:0;padding:0 17px;}
+#header {z-index:2;}
+</style>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+
+if (typeof jQuery != 'undefined') {
+    jQuery(document).ready(function($) {
+        var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+        var baseHref = '';
+        if (jQuery('base').attr('href') != undefined)
+            baseHref = jQuery('base').attr('href');
+        jQuery('a').each(function() {
+            var href = jQuery(this).attr('href');
+            if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+                jQuery(this).click(function() {
+                    var extLink = href.replace(/^https?\:\/\//i, '');
+                    _gaq.push(['_trackEvent', 'External', 'Click', extLink]);
+                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = href; }, 200);
+                        return false;
+                    }
+                });
+            }
+            else if (href && href.match(/^mailto\:/i)) {
+                jQuery(this).click(function() {
+                    var mailLink = href.replace(/^mailto\:/i, '');
+                    _gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+                });
+            }
+            else if (href && href.match(filetypes)) {
+                jQuery(this).click(function() {
+                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                    var filePath = href;
+                    _gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = baseHref + href; }, 200);
+                        return false;
+                    }
+                });
+            }
+        });
+        if( navigator.platform === 'iPad' ){
+
+    $(".myframe").removeClass('myframe');
+    $(".myframe").removeClass('myframe2');
+
+}
+if (($(window).height()<=566) || ($(window).width()<=1024))
+{
+$(".myframe").addClass('newwin');
+ $(".myframe").removeClass('myframe');
+ $(".myframe2").addClass('newwin');
+ $(".myframe2").removeClass('myframe2');
+ $(".newwin").attr("target", "_blank");
+}
+    });
+   
+    
+}
+//]]>
+
+</script>
+<script type="text/javascript">
+jQuery(window).load(function() {
+      $(".myframe").fancybox({
+           'width'    :       978,
+           'height'   :       566,
+           'hideOnContentClick': false,
+		   'overlayColor' : '#000',
+		   'overlayOpacity' : .8,
+		   'scrolling' : 'no',
+           'type':'iframe'
+      });
+     $(".myframe2").fancybox({
+           'width'    :       1000,
+           'height'   :       740,
+           'hideOnContentClick': false,
+		   'overlayColor' : '#000',
+		   'overlayOpacity' : .8,
+		   'scrolling' : 'auto',
+           'type':'iframe'
+      }); 
+      $('.newwin').click(function(){
+      });
+      
+      // display page menu class
+      $("#").addClass('selected');
+      
+});
+
+</script>
+<script type="text/javascript">
+
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-23045274-1']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+
+</script>
+<script type="text/javascript" src="js/jcarousellite_1.0.1.js"></script>
+<meta name="sth-site-verification" content="0c9c12d643db0e395e359683911406fb" />
+</head>
+
+<body id="home">
+<div id="wrapper">
+<div id="page">
+<div id="header"><div id="homeClick" onclick="window.open('../','_self');"></div>
+<!--<div id="retailer"><a href="locator/index.php" id="HideDiv2" class="myframe2">FIND A RETAILER</a>
+		<a href="locator/index.php" id="HideiPad2" target="_blank">FIND A RETAILER</a></div>-->
+<div id="searchBox">
+  <form name='searchForm' id='searchForm' action='http://emtek.com/search-results.php' method='post' >
+    <input name="searchField" type="text" class="searchText" value="SEARCH" onfocus="if(this.value=='SEARCH'){this.value=''}" onblur="if(this.value==''){this.value='SEARCH'}" />
+  <div style="float:right;"><a href="javascript:document.getElementById('searchForm').submit();" ><img src="images/search-arrow.gif" alt="Search Door Hardware" width="15" height="15" border="0" /></a></div>
+  </form>
+</div>
+
+
+
+    <div id="nav">
+		<ul>
+            <li><div id="drop5"><a href="http://emtek.com/contact-us.php">CONTACT US</a></div></li>
+            <li><div id="drop6"><a href="locator/index.php" id="HideDiv2" class="myframe2">FIND A RETAILER</a>
+		<a href="locator/index.php" id="HideiPad2" target="_blank">FIND A RETAILER</a></div></li>
+            <li><div style="height:40px;" onmouseover="MM_showHideLayers('drop-resources','','show')" onmouseout="MM_showHideLayers('drop-resources','','hide')"><div id="drop4"><a href="http://emtek.com/resources.php">RESOURCES</a></div></div></li>
+            <li><div style="height:40px;" onmouseover="MM_showHideLayers('drop-inspiration','','show')" onmouseout="MM_showHideLayers('drop-inspiration','','hide')"><div id="drop3"><a href="http://emtek.com/inspiration-galleries.php">INSPIRATION</a></div></div></li>
+            <li><div style="height:40px;" onmouseover="MM_showHideLayers('drop-products','','show')" onmouseout="MM_showHideLayers('drop-products','','hide')"><div id="drop2"><a href="http://emtek.com/collections.php">PRODUCTS</a></div></div></li>
+          <li><div style="height:40px;" onmouseover="MM_showHideLayers('drop-about','','show')" onmouseout="MM_showHideLayers('drop-about','','hide')">
+            <div id="drop1"><a href="http://emtek.com/about.php">ABOUT EMTEK</a></div>
+          </div></li>
+        </ul>
+    </div>
+    <div class="dropdown" id="drop-about" style="left:218px; width:165px; visibility:hidden;" onmouseover="MM_showHideLayers('drop-about','','show')" onmouseout="MM_showHideLayers('drop-about','','hide')"> <!--****** CHANGE THESE VALUES ******-->
+<div class="droptop"></div>
+<ul>
+<li onclick="location.href='http://emtek.com/about.php';">ABOUT EMTEK</li>
+<li onclick="location.href='http://emtek.com/our-story.php';">OUR STORY</li>
+<li onclick="location.href='http://emtek.com/blog/';">BLOG</li>
+<li onclick="location.href='http://emtek.com/assa-abloy.php';">ASSA ABLOY GROUP</li>
+<li onclick="location.href='sustainability.php';">SUSTAINABILITY</li>
+<li onclick="location.href='http://emtek.com/innovation.php';">INNOVATION</li>
+<li class="last-li" onclick="location.href='http://emtek.com/media.php';">MEDIA</li>
+</ul>
+<div class="dropleft"></div><!--[if lt IE 7]><div class="dropleft" style="background-image:url(images/bg-dropdown-left.gif);"></div>
+<![endif]--><div class="dropbottom" style="width:148px;"><!--****** CHANGE THIS Use .dropdown width -16px ******--></div><div class="dropright"></div><!--[if lt IE 7]><div class="dropright" style="background-image:url(images/bg-dropdown-right.gif);"></div>
+<![endif]-->
+</div>
+<div class="dropdown" id="drop-products" style="left:353px; width:165px; visibility:hidden;" onmouseover="MM_showHideLayers('drop-products','','show')" onmouseout="MM_showHideLayers('drop-products','','hide')"> <!--****** CHANGE THESE VALUES ******-->
+<div class="droptop"></div>
+<ul>
+<li onclick="location.href='http://emtek.com/collections.php';">PRODUCTS</li>
+<li id="HideiPad3"><a class="selectorlink" href="http://emtek.com/product-selector.php" target="_blank">SELECTOR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+<li id="HideDiv3"><a class="selectorlink myframe" href="http://emtek.com/product-selector.php">SELECTOR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+<li onclick="location.href='http://emtek.com/whats-new.php';">WHAT'S NEW</li>
+<li onclick="location.href='http://emtek.com/features.php';">FEATURES</li>
+<li  class="last-li" onclick="location.href='http://emtek.com/literature.php';">LITERATURE</li>
+</ul>
+<div class="dropleft"></div><!--[if lt IE 7]><div class="dropleft" style="background-image:url(images/bg-dropdown-left.gif);"></div>
+<![endif]--><div class="dropbottom" style="width:148px;"><!--****** CHANGE THIS Use .dropdown width -16px ******--></div><div class="dropright"></div><!--[if lt IE 7]><div class="dropright" style="background-image:url(images/bg-dropdown-right.gif);"></div>
+<![endif]-->
+</div>
+<div class="dropdown" id="drop-inspiration" style="left:464px; width:235px; visibility:hidden;" onmouseover="MM_showHideLayers('drop-inspiration','','show')" onmouseout="MM_showHideLayers('drop-inspiration','','hide')"> <!--****** CHANGE THESE VALUES ******-->
+<div class="droptop"></div>
+<ul>
+<li onclick="location.href='http://emtek.com/inspiration-galleries.php';">INSPIRATION</li>
+<li onclick="location.href='http://emtek.com/hardware-gallery.php';">HARDWARE GALLERY</li>
+<li onclick="location.href='http://emtek.com/project-showcase.php';">TV SPECIALS</li>
+<li class="last-li" onclick="location.href='http://emtek.com/project-showcase.php?s=p';">PROJECT SHOWCASE</li>
+</ul>
+<div class="dropleft"></div><!--[if lt IE 7]><div class="dropleft" style="background-image:url(images/bg-dropdown-left.gif);"></div>
+<![endif]--><div class="dropbottom" style="width:219px;"><!--****** CHANGE THIS Use .dropdown width -16px ******--></div><div class="dropright"></div><!--[if lt IE 7]><div class="dropright" style="background-image:url(images/bg-dropdown-right.gif);"></div>
+<![endif]-->
+</div>
+<div class="dropdown" id="drop-resources" style="left:584px; width:192px; visibility:hidden;" onmouseover="MM_showHideLayers('drop-resources','','show')" onmouseout="MM_showHideLayers('drop-resources','','hide')"> <!--****** CHANGE THESE VALUES ******-->
+<div class="droptop"></div>
+<ul>
+<li onclick="location.href='http://emtek.com/resources.php';">RESOURCES</li>
+<li onclick="location.href='http://emtek.com/installation.php';">INSTALLATION</li>
+<li onclick="location.href='http://emtek.com/technical-specifications.php';">TECHNICAL SPECIFICATIONS</li>
+<li onclick="location.href='http://emtek.com/warranty.php';">WARRANTY</li>
+<li onclick="location.href='http://emtek.com/videos.php';">VIDEOS</li>
+<li onclick="location.href='http://emtek.com/glossary.php';">GLOSSARY</li>
+<li class="last-li" onclick="location.href='http://emtek.com/faq.php';">FAQ</li>
+</ul>
+<div class="dropleft"></div><!--[if lt IE 7]><div class="dropleft" style="background-image:url(images/bg-dropdown-left.gif);"></div>
+<![endif]--><div class="dropbottom" style="width:176px;"><!--****** CHANGE THIS Use .dropdown width -16px ******--></div><div class="dropright"></div><!--[if lt IE 7]><div class="dropright" style="background-image:url(images/bg-dropdown-right.gif);"></div>
+<![endif]-->
+</div>
+
+</div><div id="homeLeft">
+<div id="clickprev" class="prev"></div>
+<div id="clicknext" class="next"></div>
+<div class="imageSlider">
+
+    <ul>
+    		<li><a href='http://emtek.com/Passage-Privacy-Knobs/round-knob' class='' ><img src='home/66.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/collections-function-view.php?f=9&ck=y&ftm=yy2' class='' ><img src='home/64.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/cabinet-appliance-pulls' class='' ><img src='home/63.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/Passage-Privacy-Knobs/modern-disc-crystal' class='' ><img src='home/62.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/color.php' class='' ><img src='home/61.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/collections-function-view.php?f=9&ck=y&ftm=yy2' class='' ><img src='home/60.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/multi-point-lock-trim' class='' ><img src='home/59.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/sideplates' class='' ><img src='home/58.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/Passage-Privacy-Levers/merrimack-lever' class='' ><img src='home/57.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/single-and-two-point' class='' ><img src='home/56.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/single-and-two-point' class='' ><img src='home/55.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/liscio.php' class='' ><img src='home/52.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/collections-function-view.php?f=5' class='' ><img src='home/50.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/Passage-Privacy-Knobs/modern-square-crystal' class='' ><img src='home/47.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/electronic-locks' class='' ><img src='home/38.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/product-selector.php' class='myframe' ><img src='home/36.jpg' alt='' width='720' height='470' border='0' /></a></li>
+<li><a href='http://emtek.com/Door-Accessories/button-tips' class='' ><img src='home/65.jpg' alt='' width='720' height='470' border='0' /></a></li>
+    </ul>
+</div>
+
+</div>
+
+	<div id="homeRight">
+		<a href="http://emtek.com/product-selector.php" id="HideDiv" class="myframe"><img src="home/TEMP-small1.jpg" class="homeSmall" alt="Door Hardware" width="233" height="223" border="0" /></a>
+		<a href="http://emtek.com/product-selector.php" id="HideiPad" target="_blank"><img src="home/TEMP-small1.jpg" alt="Door Products" width="233" height="240" border="0" /></a>
+		<a href="http://emtek.com/liscio.php"><img src="home/TEMP-small2.jpg" alt="Door Products" width="233" height="240" border="0" /></a>
+		
+	</div>
+<div id="grayBottom"><div id="social-icons"><a href="http://www.facebook.com/EmtekAssaAbloy" target="_blank"><img src="images/facebook.jpg" alt="facebook" border="0" /></a><a href="http://www.twitter.com/EMTEK_ASSAABLOY" target="_blank"><img src="images/twitter.jpg" alt="twitter" border="0" /></a><a href="http://www.pinterest.com/emtekassaabloy" target="_blank"><img src="images/pinterest.jpg" alt="pinterest" border="0" /></a><a href="http://www.youtube.com/user/EMTEKproducts" target="_blank"><img src="images/youtube.jpg" alt="youtube" border="0" /></a></div><a href="dealer-login.php" id="btnDealer"><span>Dealer Login</span></a></div>
+<div id="footer"><div id="footer_assa"><a href="http://www.assaabloy.com/en/com/" target="_blank">ASSA ABLOY, the global leader in door opening solutions</a></div>
+	<div id="footer_nav">
+    <ul>
+            <li>
+      <a href="locator/index.php" id="HideDiv4" class="myframe2">Find A Retailer</a>
+		<a href="locator/index.php" id="HideiPad4" target="_blank">Find A Retailer</a></li>
+		<li>|</li>
+            <li><a href="http://emtek.com/contact-us.php">Email Us</a></li>
+            <li>|</li>
+            <li><a href="sitemap.php">Site Map</a></li>
+ <li>|</li>
+            <li><a href="http://emtek.com/legal.php#cookies">Cookies</a></li>
+      <li>|</li>
+            <li><a href="legal.php">Legal</a></li>
+            
+            
+		</ul>
+	</div>
+	
+
+
+</div><div id="copyright"><strong>Copyright&nbsp;&copy;&nbsp;
+  2015, Emtek Products, Inc., an ASSA ABLOY Group company. All rights reserved.</strong><br />
+<div>Reproduction in whole or in part without the express written permission of Emtek Products Inc. is prohibited.</div></div>
+</div>
+<div id="footer_gradient">
+<div id="footerLinks">
+<div class="footerCol">
+<span class="footerTitle">About Emtek</span>&reg;<br />
+    <div style="border-right:1px dotted #999;padding-right:30px;padding-top:5px;line-height:normal;" id="homeAbout">Emtek&reg; is dedicated to bringing interesting, well made hardware back into American homes. We strive to provide a broad range of products that provide both superior performance and compelling design. The Emtek product line includes 
+      <h1>door hardware, cabinet hardware, door locks, knobs, levers,</h1><h2>entry sets, bath hardware, door accessories, multi point locks.</h2></div>
+</div>
+<div class="footerCol">
+<span class="footerTitle">Products</span><br />
+    <ul>
+        <li><a href="collections.php">Door Hardware / Door Products</a></li>
+        <li><a href="whats-new.php">New Products</a></li>
+        <li><a href="product-selector.php" class="myframe">Selector</a></li>
+        <li><a href="collections-function-view.php?f=1">Electronic Locks</a></li>
+        <li><a href="collections-function-view.php?f=7">Knobs</a>, <a href="collections-function-view.php?f=7">Levers</a>, <a href="collections.php">Handlesets</a>, <a href="collections-function-view.php?f=4">Deadbolts</a></li>
+        <li><a href="collections-function-view.php?f=5">Key in Knobs / Levers</a>, <a href="collections-function-view.php?f=6">Sideplate Locks</a></li>
+        <li><a href="collections.php">Cabinet Hardware</a></li>
+        <li><a href="collections-function-view.php?f=12">Bath Hardware</a></li>
+        <li><a href="collections-function-view.php?f=14">Door Accessories</a></li>
+    </ul>
+</div>
+<div class="footerCol">
+<span class="footerTitle">Inspiration</span><br />
+    <ul>
+        <li><a href="inspiration-galleries.php">Designs and Inspiration</a></li>
+        <li><a href="hardware-gallery.php">Hardware Gallery / Photos</a></li>
+        <li><a href="project-showcase.php?s=e">Extreme Makeover Home Edition</a></li>
+        <li><a href="project-showcase.php?s=p">Projects and Installations Showcase</a></li>
+    </ul>
+</div>
+
+<div class="footerCol">
+<span class="footerTitle">Resources</span><br />
+    <ul style="border:none;">
+        <li><a href="installation.php">Door Hardware Installation</a></li>
+        <li><a href="technical-specifications.php">Technical Specifications</a></li>
+        <li><a href="warranty.php">Hardware Warranty</a></li>
+        <li><a href="videos.php">Installation Videos / How-to-Videos</a></li>
+        <li><a href="glossary.php">Glossary - Door Hardware</a></li>
+        <li><a href="faq.php">Frequently Asked Questions</a></li>
+    </ul>
+</div>
+</div>
+</div></div>
+<script type="text/javascript">
+$(function() {
+    $(".imageSlider").jCarouselLite({
+    time:2000,
+        btnNext: ".next",
+        btnPrev: ".prev",
+				visible: 1,
+				auto: 6000,
+				speed: 800,
+    		btnGo: ["#page .66", "#page .64", "#page .63", "#page .62", "#page .61", "#page .60", "#page .59", "#page .58", "#page .57", "#page .56", "#page .55", "#page .52", "#page .50", "#page .47", "#page .38", "#page .36", "#page .65"]
+    });
+});
+</script>
+
+
+</body>
+</html>
